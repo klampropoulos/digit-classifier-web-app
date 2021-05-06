@@ -26,7 +26,7 @@ cytoolz==0.8.2
 dask==0.15.3
 filelock==2.0.12
 Flask==0.12.2
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 gevent==1.2.2
 glob2==0.5
 greenlet==0.4.12
