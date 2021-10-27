@@ -23,7 +23,7 @@ cryptography==2.0.3
 cycler==0.10.0
 Cython==0.26.1
 cytoolz==0.8.2
-dask==0.15.3
+dask==2021.10.0
 filelock==2.0.12
 Flask==0.12.2
 Flask-Cors==3.0.3
